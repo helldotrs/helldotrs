@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellmak
-- 👀 I’m interested in programming, alternative keyboard layouts
+- 👀 I’m interested in programming, alternative keyboard hardware layouts
 - 🌱 I’m currently learning PyGame
 - 💞️ I’m looking to collaborate on smaller PyGame and Python projects.
 - 📫 How to reach me ...
