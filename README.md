@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hellmak
 - 👀 I’m interested in programming, alternative keyboard layouts
-- 🌱 I’m currently learning ooPHP, MySQL and Roller skating
-- 💞️ I’m looking to collaborate on ooPHP projects
+- 🌱 I’m currently learning PyGame
+- 💞️ I’m looking to collaborate on smaller PyGame and Python projects.
 - 📫 How to reach me ...
 
 <!---
