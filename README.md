@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hellmak
+- 👋 Hi, I’m @hellmak - Your local Hacker Witch! 
 - 👀 I’m interested in programming, alternative keyboard hardware/layouts
 - 🌱 I’m currently learning Git, PyGame and C#. 
 - 💞️ I’m looking to collaborate on smaller PyGame or ooPython projects.
