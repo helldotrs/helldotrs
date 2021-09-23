@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @hellmak - Your local Hacker Witch! 
+- 👋 Your local Hacker Witch! 
 - 👋 I'm first and foremost a cynical stoic - if that's an issue you are most likely not goint to enjoy my projects.
 - 👀 I'm interested in programming, alternative keyboard hardware/layouts
 - 🌱 I'm currently learning Git, PyGame and C#. 
