@@ -7,6 +7,8 @@
 - 💞️ I've also touched on HTML, CSS, Bootstrap, React, C++, Java, LSL, Macromedia AS, MySQL.
 - 📫 How to reach me ... buy me a drink n a couple o shots! 
 
+If you use any of my code/files, please cred appropriately, for example: "So and so by hellmak@GitHub". Also send me a line telling me that and where you've used my code :) 
+
 <!---
 hellmak/hellmak is a ✨ special ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
