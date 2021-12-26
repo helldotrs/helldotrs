@@ -1,5 +1,5 @@
 - ☕️ Your local Hacker Witch! 
-- 👋 I'm first and foremost a cynical stoic - if that's an issue you are most likely not goint to enjoy my projects.
+- 👋 Local hacker witch / pragmatic skater queer.
 - 👀 My computer related interests include programming and alternative keyboard hardware/layouts
 - 🌱 I'm currently learning Django and PyGame.
 - 💻 Comfortable working with Python and PHP.  
