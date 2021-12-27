@@ -1,4 +1,4 @@
-- ☕️ Your local Hacker Witch! 
+- 🔮 Your local Hacker Witch! 
 - 👋 Pragmatic skater queer.
 - 👀 My computer related interests include programming and alternative keyboard hardware/layouts
 - 🌱 I'm currently learning Django and PyGame.
