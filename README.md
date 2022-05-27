@@ -7,6 +7,7 @@
 - 💻 Know the basics of Java and C#.
 - 💻 Dabbled a bit in Bootstrap, React.js, C++, LSL, Flash AS.
 - 🌱 Aiming to learn Rust in 2022.
+- 🐧 Native Linux user - Debian based non-Ubuntu distros.
 - 💞️ I'm looking to collaborate on smaller PyGame and Python projects.
 - 📫 How to reach me ... buy me a drink n a couple o shots! 
 
