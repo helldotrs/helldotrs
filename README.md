@@ -1,11 +1,12 @@
 - 🔮 Your local Hacker Witch / pragmatic skater queer.
+- 🔮 Member of Codecademy Community mod team.
 - 👀 My computer related interests include programming and alternative keyboard hardware/layouts
-- 🌱 I'm currently learning Django and PyGame.
+- 🌱 I'm currently learning Rust.
 - 💻 Comfortable working with Python and PHP.  
-- 💻 Somewhat comfortable working with Linux, JS, HTML, CSS, MySQL.
+- 💻 Somewhat comfortable working with pygame, Linux, JS, HTML, CSS, MySQL.
 - 💻 Know the basics of Java and C#.
 - 💻 Dabbled a bit in Bootstrap, React.js, C++, LSL, Flash AS.
-- 💻 Aiming to learn Rust in 2022.
+- 🌱 Aiming to learn Rust in 2022.
 - 💞️ I'm looking to collaborate on smaller PyGame and Python projects.
 - 📫 How to reach me ... buy me a drink n a couple o shots! 
 
