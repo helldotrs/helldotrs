@@ -7,7 +7,7 @@
 - 💻 Somewhat comfortable working with pygame, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bootstrap, React.js, C++, C#, LSL, Flash AS.
 - 🌱 Aiming to learn Rust in 2022.
-- 💞️ I'm looking to collaborate on smaller PyGame and Python projects.
+- 💞️ I'm looking to collaborate on smaller PyGame projects.
 
 - 🐧 Native Linux user - Debian based non-Ubuntu distros.
 - 🛼 Outside of IT I am a rollerderby referee in training!
