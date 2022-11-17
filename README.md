@@ -4,11 +4,11 @@
 
 --------
 
-- 🌱 I'm currently learning Rust.
+- 🌱 I'm currently learning as much as I can about cyber secuirty and pentesting.
 - 💻 Comfortable working with Python and PHP.  
 - 💻 Somewhat comfortable working with pygame, Linux, JS, HTML, CSS, MySQL, Java.
-- 💻 Dabbled a bit in Bootstrap, React.js, C++, C#, LSL, Flash AS.
-- 🌱 Aiming to learn Rust in 2022.
+- 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
+- 🌱 Aiming for eJPT cert 2023.
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
 
 --------
