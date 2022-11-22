@@ -1,10 +1,10 @@
-- 🔮 Your local Hacker Witch / pragmatic skater queer.
+- 🔮 Your local Hacker Witch 
 - 📎 Proud member of Codecademy Community mod team.
 - 👀 My computer related interests include programming and alternative keyboard hardware/layouts
 
 --------
 
-- 🌱 I'm currently learning as much as I can about cyber secuirty and pentesting.
+- 🌱 I'm currently learning as much as I can about ethical hacking and offensive cyber secuirty.
 - 💻 Comfortable working with Python and PHP.  
 - 💻 Somewhat comfortable working with pygame, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
@@ -18,7 +18,7 @@
 
 --------
 
-- 📫 How to reach me ... buy me a drink n a couple o shots ;)
+- 📫 Twitter @cyberSecHell, web hellmak.com 
 
 --------
 
