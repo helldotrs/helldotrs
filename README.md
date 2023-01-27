@@ -13,7 +13,7 @@
 
 --------
 
-- 🐧 Native Linux user - Debian based non-Ubuntu distros.
+- 🐧 Native Linux user (MX, Debian)
 - 🛼 Outside of IT I am a rollerderby referee in training!
 
 --------
