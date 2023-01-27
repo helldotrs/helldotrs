@@ -4,7 +4,7 @@
 
 --------
 
-- 🌱 I'm currently learning Rust and red team cubersec.
+- 🌱 I'm currently learning Rust and red team cybersec.
 - 💻 Comfortable working with Python and PHP.  
 - 💻 Somewhat comfortable working with, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
