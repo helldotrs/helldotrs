@@ -4,9 +4,9 @@
 
 --------
 
-- 🌱 I'm currently learning as much as I can about ethical hacking and offensive cyber secuirty.
+- 🌱 I'm currently learning Rust and red team cubersec.
 - 💻 Comfortable working with Python and PHP.  
-- 💻 Somewhat comfortable working with pygame, Linux, JS, HTML, CSS, MySQL, Java.
+- 💻 Somewhat comfortable working with, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
 - 🌱 Aiming for eJPT cert 2023.
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
@@ -18,7 +18,7 @@
 
 --------
 
-- 📫 Twitter @cyberSecHell, web hellmak.com 
+- 📫 Twitter @cyberSecHell, links hellmak.com 
 
 --------
 
