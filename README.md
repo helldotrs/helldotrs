@@ -8,7 +8,7 @@
 - 💻 Comfortable working with Python and PHP.  
 - 💻 Somewhat comfortable working with, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
-- 🌱 Aiming for eJPT cert 2023.
+- 🌱 Aiming for a job at Mullvad VPN in 2023.
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
 
 --------
@@ -18,7 +18,7 @@
 
 --------
 
-- 📫 Twitter @cyberSecHell, links hellmak.com 
+- 📫 Twitter @cyberSecHell, web hellmak.com / hell.rs 
 
 --------
 
