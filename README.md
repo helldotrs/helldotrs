@@ -13,12 +13,12 @@
 
 --------
 
-- 🐧 Native Linux user (MX, Debian)
+- 🐧 Native Linux user (Manjaro / MX)
 - 🛼 Outside of IT I am a rollerderby referee in training!
 
 --------
 
-- 📫 Twitter @cyberSecHell, web hellmak.com / hell.rs 
+- 📫 Twitter @cyberSecHell, web hell.rs 
 
 --------
 
