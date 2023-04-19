@@ -8,7 +8,7 @@
 - 💻 Comfortable working with Python and PHP.  
 - 💻 Somewhat comfortable working with, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
-- 🌱 Aiming for a job at Mullvad VPN in 2023.
+- 🌱 Aiming to land a Junior Python dev job in 2023.
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
 
 --------
