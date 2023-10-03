@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning Rust and red team cybersec.
 - 💻 Comfortable working with Python and PHP.  
-- 💻 Somewhat comfortable working with, Linux, JS, HTML, CSS, MySQL, Java.
+- 💻 Somewhat comfortable working with Rust, Linux, JS, HTML, CSS, MySQL, Java.
 - 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
 - 🌱 Aiming to land a Junior Python dev job in 2023.
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
