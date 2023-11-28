@@ -1,24 +1,24 @@
 - 🔮 Your local Hacker Witch 
-- 📎 Proud member of Codecademy Community mod team.
-- 👀 My computer related interests include programming and alternative keyboard hardware/layouts
+- 👩🏻‍💻 Developer / Cyber Security Enthusiast, working for Assured - Security Consultants.
+- 👀 My computer-related interests include programming, wearables, and alternative keyboard hardware/layouts
 
 --------
 
-- 🌱 I'm currently learning Rust and red team cybersec.
+- 🌱 I'm currently deep-diving in Python and learning various pentesting tools.
 - 💻 Comfortable working with Python and PHP.  
-- 💻 Somewhat comfortable working with Rust, Linux, JS, HTML, CSS, MySQL, Java.
-- 💻 Dabbled a bit in Bash, Bootstrap, React.js, C++, C#, LSL, Flash AS.
-- 🌱 Aiming to land a Junior Python dev job in 2023.
+- 💻 Somewhat comfortable working with Rust, Linux, JS, HTML, CSS, MySQL, and Java.
+- 💻 Dabbled in Bash, Bootstrap, React.js, C++, C#, LSL, and Flash AS.
+- 🌱 Aiming to land a Junior Python dev job in 2023. ( did!! )
 - 💞️ I'm looking to collaborate on smaller PyGame projects.
 
 --------
 
-- 🐧 Native Linux user (Manjaro / MX)
-- 🛼 Outside of IT I am a rollerderby referee in training!
+- 🐧 Native Linux user ( Manjaro )
+- 🛼 Outside of IT I am a roller derby referee in training!
 
 --------
 
-- 📫 Twitter @cyberSecHell, web hell.rs 
+- 📫 Twitter @helldotrs, web hell.rs 
 
 --------
 
