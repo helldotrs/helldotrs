@@ -22,7 +22,7 @@
 
 --------
 
-**Please note:** If you use any of my code/files, please cred appropriately, for example: "So and so by hellmak@GitHub". Also send me a line telling me that and where you've used my code :) 
+**Please note:** If you use any of my code/files, please cred appropriately, for example: "So and so by hell.rs". Also send me a line telling me that and where you've used my code :) 
 
 <!---
 hellmak/hellmak is a ✨ special ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
