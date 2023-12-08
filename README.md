@@ -14,7 +14,7 @@
 --------
 
 - 🐧 Native Linux user ( Manjaro )
-- 🛼 Outside of IT I am a roller derby referee in training!
+- 🛼 !
 
 --------
 
