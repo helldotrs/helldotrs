@@ -1,5 +1,5 @@
 - 🔮 Your local Hacker Witch 
-- 👩🏻‍💻 Developer / Cyber Security Enthusiast, for Assured - Security Consultants.
+- 👩🏻‍💻 Cyber Security Enthusiast / Developer at @Assured - Security Consultants.
 - 👀 My computer-related interests include programming, wearables, and alternative keyboard hardware/layouts
 
 --------
