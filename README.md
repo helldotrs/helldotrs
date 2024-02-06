@@ -13,7 +13,7 @@
 
 --------
 
-- 🐧 Native Linux user ( Manjaro )
+- 🐧 Native Linux user
 - 🛼 !
 
 --------
