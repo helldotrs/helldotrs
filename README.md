@@ -30,6 +30,6 @@ Note to self: missing commit c41cc9a on 8 Jan 2024
 hellmak/hellmak is a ✨ special ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!--
 aabbcc:61a60170273e74a5be90355ffe8e86ad
-
+for hgc hash chal-->
