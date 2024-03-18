@@ -1,7 +1,7 @@
 - 🔮 Your local Hacker Witch 
 - 🔒 Cyber Security Enthusiast
 - 👩🏻‍💻 Dev at Assured Security Consultants.
-- 🏳️‍🌈 Founder at hack.gbgay.com.
+- 🏳️‍🌈 Founder at hack.gbgay.com (queer cybersec con).
 - 🤖 Goon at Security Fest.
 - ☠️ Attendee at Defcon and other hacking and cybersec cons (if you run into me, I might have a gift for you - especially at Defcon!).
 
