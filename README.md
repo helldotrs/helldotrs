@@ -1,28 +1,28 @@
 - 🔮 Your local Hacker Witch 
-- 👩🏻‍💻 Cyber Security Enthusiast / Developer at Assured - Security Consultants.
-- 👀 My computer-related interests include programming, wearables, and alternative keyboard hardware/layouts
+- 👩🏻‍💻 Cyber Security Enthusiast
+- 💻 Dev at Assured Security Consultants.
+- 🏳️‍🌈 Founder at hack.gbgay.com.
+- ☠️ Attendee at Defcon.
 
 --------
 
-- 🌱 I'm currently deep-diving in Python and learning various pentesting tools.
-- 💻 Comfortable working with Python and PHP.  
-- 💻 Somewhat comfortable working with Rust, Linux, JS, HTML, CSS, MySQL, and Java.
-- 💻 Dabbled in Bash, Bootstrap, React.js, C++, C#, LSL, and Flash AS.
+- 🔬 Aiming to gain a working knowledge of Kicad and circuit board and creating an SAO board in 2024.
+- 🗄️ Working on solidifying my knowledge of MariaDB/MySQL.
 - 🌱 Aiming to land a Junior Python dev job in 2023. ( did!! )
-- 💞️ I'm looking to collaborate on smaller PyGame projects.
+- 💞️ Not currently looking for colabs. 
 
 --------
 
 - 🐧 Native Linux user
-- 🛼 !
+- 👾 My computer-related interests include programming, wearables, and alternative keyboard hardware/layouts.
 
 --------
 
-- 📫 Twitter @helldotrs, web hell.rs 
+- 📫 socials at hell.rs
 
 --------
 
-**Please note:** If you use any of my code/files, please cred appropriately, for example: "So and so by hell.rs". Also send me a line telling me that and where you've used my code :) 
+**Please note:** If you use any of my code/files, please cred appropriately, for example: "So and so by hell.rs". Also, please send me a line telling me that and where you've used my code :) 
 
 Note to self: missing commit c41cc9a on 8 Jan 2024
 
