@@ -1,14 +1,12 @@
 - 🔮 Your local Hacker Witch 
 - 🔒 Cyber Security Enthusiast
-- 👩🏻‍💻 Dev at Assured Security Consultants.
 - 🏳️‍🌈 Founder at hack.gbgay.com (queer cybersec con).
-- 🤖 Goon at Security Fest.
-- ☠️ Attendee at Defcon and other hacking and cybersec cons (if you run into me, I might have a gift for you - especially at Defcon!).
+- 🤖 Volunteer at Security Fest (Gothenburg) & Sec-T (Stockholm).
+- ☠️ I try to attend Defcon (US) and CCC (Germany) - say hi if you run into me!
 
 --------
 
-- 🔬 Aiming to gain a working knowledge of Kicad and circuit board and creating an SAO board in 2024.
-- 🗄️ Working on solidifying my knowledge of MariaDB/MySQL.
+- 🗄️ Working on solidifying my knowledge of Rust, Macroquad and clean code.
 - 🌱 Aiming to land a Junior Python dev job in 2023. ( did!! )
 - 💞️ Not currently looking for colabs. 
 
