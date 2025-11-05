@@ -2,7 +2,7 @@
 - 🔒 Cyber Security Enthusiast
 - 🏳️‍🌈 Founder at hack.gbgay.com (queer cybersec con).
 - 🤖 Volunteer at Security Fest (Gothenburg) & Sec-T (Stockholm).
-- ☠️ I try to attend Defcon (US) and CCC (Germany) - say hi if you run into me!
+- ☠️ I try to attend Defcon (US) and CCC (Germany) when possible- say hi if you run into me!
 
 --------
 
